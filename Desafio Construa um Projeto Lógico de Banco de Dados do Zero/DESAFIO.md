@@ -1,4 +1,4 @@
-# Desafio Construindo um Projeto Lógico de Banco de Dados do Zero
+# Desafio Construa um Projeto Lógico de Banco de Dados do Zero
 
 ### O que foi realizado?
 Seguindo as especificações do desafio, foi desenvolvida do zero toda a modelagem lógica e física de um banco de dados para uma oficina, incluindo:
