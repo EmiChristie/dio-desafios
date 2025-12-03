@@ -1,0 +1,4 @@
+#Desafio Criando um Relatório Vendas e Lucros com Data Analytics com Power BI
+
+###O que foi feito
+Recriei as páginas iniciais do relatório conforme a especificação do desafio. Para a página extra, foquei em uma análise internacional, explicitando dados sobre a performance das vendas e dos produtos ao longo do tempo por cada país. A estilização foi feita de maneira diferente da dos vídeos, sendo utilizado um tema personalizado do PowerBI e cores correspondentes ao tema. No fim, o produto está consistente e descritivo conforme o teor de cada página. O relatório pode ser encontrado na pasta, assim como seu resultado em PDF para uma visualização rápida e sem interações.
