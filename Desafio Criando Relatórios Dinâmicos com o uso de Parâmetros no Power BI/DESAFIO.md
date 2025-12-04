@@ -1,0 +1,8 @@
+#Desafio Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
+
+###O que foi feito
+
+Para aplicar a opção de parâmetros dinâmicos, criei uma nova página no relatório chamada "parâmetros", onde defini dois conjuntos de parâmetros: categorias e valores. Na página, foram colocados alguns gráficos que interagem com a seleção destes "menus" e que contam uma história sobre a empresa de modo multifacetado. O visual foi mantido como o das outras páginas de forma coerente, e a disposição dos elementos busca seguir os princípios da proporção áurea. A página poderia estar presente em uma apresentação de powerpoint, por exemplo, em uma reunião sobre a saúde da empresa ou planejamentos futuros com base no desempenho de vendas dos últimos anos.
+
+###Storytelling
+A página foi intitulada "Diagnóstico multifacetado". Isto porque, em um cenário hipotético, o relatório poderia ser usado para discutir pontos de interesse distintos (como lucro e vendas por produto, segmento, ao longo dos meses, etc) em uma mesma ocasião. Dois dos gráficos interagem completamente com esta seleção, mostrando perspectivas diferentes sobre as mesmas dimensões, enquanto um tem fixada uma categoria temporal, que pode analisar os diferentes valores dos parâmetros dinâmicos. Sendo assim, em uma reunião com stakeholders, a equipe de análise de dados poderia apresentar todos estes aspectos e conduzir sua história acerca dos dados com facilidade de exibição e compreensão por parte dos clientes.
